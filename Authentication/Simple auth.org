@@ -1,5 +1,6 @@
 
 * Simple Authentication
+    http://localhost:50030/jobtracker.jsp?user.name=babu
     Hadoop HTTP web-consoles support the equivalent of Hadoop's Pseudo/Simple authentication. If this option is enabled, user must specify their user name in the first browser interaction using the user.name query string parameter. For example: http://localhost:50030/jobtracker.jsp?user.name=babu.
     https://hadoop.apache.org/docs/r1.2.1/HttpAuthentication.html
 
