@@ -1,0 +1,1 @@
+echo OPTIMISTIC_ABOUT_FILE_LOCKING = 1 >> /opt/splunk/etc/splunk-launch.conf
